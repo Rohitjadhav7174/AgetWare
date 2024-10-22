@@ -1,0 +1,14 @@
+[
+    {
+        "loan_id": 1,
+        "customer_id": 1,
+        "loan_amount": 1000,
+        "loan_period": 12,
+        "interest_rate": 5,
+        "total_amount": 1050,
+        "monthly_emi": 87.5,
+        "amount_paid": 0,
+        "remaining_balance": 1050,
+        "status": "Active"
+    }
+]
